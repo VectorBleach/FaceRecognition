@@ -1,0 +1,1 @@
+This project demonstrates the implementation of a face recognition system using **Siamese networks**. Siamese networks are widely used in face recognition tasks because they can effectively measure the similarity between two images, making them ideal for verification and identification purposes.
